@@ -73,6 +73,28 @@
 | UX 검토서 | `templates/waterfall/08-검토/UX검토서.md` |
 | 프로젝트 관리 산출물 | `templates/waterfall/08-검토/프로젝트관리-산출물.md` |
 
+## 바이브코딩 라이브러리
+
+바이브코딩 & 멀티에이전트 오케스트레이션 종합 가이드는 [`vibe-coding/`](./vibe-coding/) 디렉토리에서 확인할 수 있습니다.
+
+| 분류 | 파일 | 설명 |
+|------|------|------|
+| 메인 가이드 | [`vibe-coding/README.md`](./vibe-coding/README.md) | 바이브코딩 개념, 프레임워크, 모범 사례 |
+| 도구 가이드 | [`vibe-coding/tools/`](./vibe-coding/tools/) | Claude Code, Kimi 바이브코딩 실전 가이드 |
+| 논문 분석 | [`vibe-coding/papers/`](./vibe-coding/papers/) | 멀티에이전트 오케스트레이션 논문 분석 |
+| 프롬프트 | [`vibe-coding/prompts/`](./vibe-coding/prompts/) | 실전 프롬프트 예시 모음 |
+| 자료 모음 | [`vibe-coding/resources/`](./vibe-coding/resources/) | 추가 도구, 링크, 참고 자료 |
+
+## 연구 & 참고 문서
+
+[`docs/`](./docs/) 디렉토리에서 연구 논문 분석, 보고서, 가이드 문서를 확인할 수 있습니다.
+
+| 분류 | 파일 | 설명 |
+|------|------|------|
+| 논문 리뷰 | [`docs/research/`](./docs/research/) | 2025-2026년 멀티에이전트 오케스트레이션 논문 종합 리뷰 |
+| 보고서 | [`docs/reports/`](./docs/reports/) | 오케스트레이션 분석 보고서 |
+| 가이드 | [`docs/guides/`](./docs/guides/) | 문서 기반 프로젝트 설정 가이드 |
+
 ## 사용법
 
 ### 기술 스택 가이드 사용
