@@ -4,6 +4,19 @@
 
 프로젝트에 해당 가이드를 복사하면 Claude Code가 보안 / 생산성 / 성능 모범 사례를 자동으로 적용합니다. 워터폴 산출물 템플릿으로 SRS, 설계서, 테스트 계획서 등을 바로 생성할 수 있습니다.
 
+## 📚 바이브코딩 라이브러리
+
+바이브코딩과 멀티에이전트 오케스트레이션에 대한 참고 자료 모음
+
+| 분류 | 경로 | 설명 |
+|------|------|------|
+| 가이드 | [`vibe-coding/README.md`](./vibe-coding/README.md) | 바이브코딩 & 멀티에이전트 오케스트레이션 종합 가이드 |
+| 논문 | [`vibe-coding/papers/`](./vibe-coding/papers/) | ChatDev, MetaGPT 등 연구 논문 요약 |
+| 프롬프트 | [`vibe-coding/prompts/`](./vibe-coding/prompts/) | 실전 프롬프트 예시 모음 |
+| 자료 | [`vibe-coding/resources/`](./vibe-coding/resources/) | 도구, 링크, 추가 자료 |
+
+---
+
 ## 기술 스택 가이드
 
 | 스택 | 파일 | 핵심 기술 | 분량 |
