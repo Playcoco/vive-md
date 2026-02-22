@@ -104,9 +104,11 @@
 
 | 분류 | 파일 | 설명 |
 |------|------|------|
-| 논문 리뷰 | [`docs/research/`](./docs/research/) | 2025-2026년 멀티에이전트 오케스트레이션 논문 종합 리뷰 |
-| 보고서 | [`docs/reports/`](./docs/reports/) | 오케스트레이션 분석 보고서 |
-| 가이드 | [`docs/guides/`](./docs/guides/) | 문서 기반 프로젝트 설정 가이드 |
+| 오케스트레이션 논문 리뷰 | [`docs/vibe_coding_orchestration_papers_2025_2026_comprehensive_review.md`](./docs/vibe_coding_orchestration_papers_2025_2026_comprehensive_review.md) | 2025-2026년 멀티에이전트 오케스트레이션 종합 리뷰 |
+| 온톨로지 종합 리서치 | [`docs/vibe-coding-ontology-research-synthesis.md`](./docs/vibe-coding-ontology-research-synthesis.md) | 온톨로지 핵심/고전/최신(LLM) 논문 요약 |
+| 온톨로지 원문·번역 아카이브 | [`docs/ontology-papers/README.md`](./docs/ontology-papers/README.md) | 58편 원문 수집 결과 + 1:1 번역 문서 |
+| 오케스트레이션 가이드 | [`docs/multi-agent-orchestration-papers-guide.md`](./docs/multi-agent-orchestration-papers-guide.md) | 논문 기반 실무 적용 가이드 |
+| 문서 설정 가이드 | [`docs/guides/문서-기반-프로젝트-설정-가이드.md`](./docs/guides/문서-기반-프로젝트-설정-가이드.md) | 문서 중심 프로젝트 운영 가이드 |
 
 ## 사용법
 
@@ -142,6 +144,16 @@ cp "templates/react/React-개발가이드.md" my-project/frontend/CLAUDE.md
 # 워터폴 SI 프로젝트: 전체 산출물 세트
 cp -r templates/waterfall/ my-project/docs/
 cp "templates/security/보안-가이드.md" my-project/docs/
+```
+
+### 온톨로지 아카이브 갱신
+
+```bash
+# 온톨로지 원문 수집 + 1:1 번역 문서 재생성
+python3 -m venv .venv
+. .venv/bin/activate
+pip install requests pypdf beautifulsoup4 lxml
+python scripts/fetch_and_translate_ontology_papers.py
 ```
 
 ## 예시 프롬프트
