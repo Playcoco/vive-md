@@ -581,6 +581,9 @@ kimi web
 
 ### 2.8 MCP (Model Context Protocol) 설정
 
+> 📚 **MCP 종합 가이드**: 아키텍처, 서버 개발, 보안, 실전 패턴 등 상세 가이드는 [`vibe-coding/mcp/`](../mcp/README.md)를 참조하라.
+> 📚 **Skills 종합 가이드**: SKILL.md 구조, 생성 가이드, 고급 패턴, 실전 예시는 [`vibe-coding/skills/`](../skills/README.md)를 참조하라.
+
 ```bash
 # MCP 설정 파일 예시 (mcp.json)
 {

@@ -1008,6 +1008,8 @@ Kimi의 다국어 능력을 활용한 프롬프트:
 
 ## 9. MCP 서버 연동 및 에이전트 기능
 
+> 📚 **MCP 종합 가이드**: 아키텍처, Transport, 서버 개발, 보안, 실전 패턴, 서버 카탈로그를 포함한 상세 가이드는 [`vibe-coding/mcp/`](../mcp/README.md)를 참조하라.
+
 ### 9.1 MCP (Model Context Protocol) 개요
 
 MCP는 AI 모델이 외부 도구와 상호작용하기 위한 표준 프로토콜입니다.

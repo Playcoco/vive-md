@@ -813,6 +813,8 @@ Claude Code가 준수하는 Git 안전 프로토콜:
 
 ## 8. MCP 서버 연동
 
+> 📚 **MCP 종합 가이드**: 아키텍처, Transport, 서버 개발, 보안, 실전 패턴, 서버 카탈로그를 포함한 상세 가이드는 [`vibe-coding/mcp/`](../mcp/README.md)를 참조하라.
+
 ### MCP (Model Context Protocol)란?
 
 MCP는 Claude Code의 기능을 확장하는 프로토콜이다. 외부 도구, 데이터 소스, 서비스를 Claude Code에 연결할 수 있다.
