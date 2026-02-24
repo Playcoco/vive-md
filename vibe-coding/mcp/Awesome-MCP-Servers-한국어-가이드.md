@@ -10,10 +10,10 @@
 
 - [🔧 공식 레퍼런스 서버](#공식-레퍼런스-서버) (7개)
 - [📦 아카이브 (공식 이전 서버)](#아카이브-(공식-이전-서버)) (13개)
-- [🤖 AI 플랫폼 & 모델](#ai-플랫폼--모델) (123개)
+- [🤖 AI 플랫폼 & 모델](#ai-플랫폼--모델) (126개)
 - [🗄️ 데이터베이스](#데이터베이스) (163개)
 - [☁️ 클라우드 & 인프라](#클라우드--인프라) (121개)
-- [🌐 브라우저 & 웹](#브라우저--웹) (83개)
+- [🌐 브라우저 & 웹](#브라우저--웹) (84개)
 - [📝 소스 제어 & 코드 관리](#소스-제어--코드-관리) (31개)
 - [📋 프로젝트 관리](#프로젝트-관리) (64개)
 - [📊 모니터링 & 옵저버빌리티](#모니터링--옵저버빌리티) (78개)
@@ -24,12 +24,12 @@
 - [🔗 API & 통합](#api--통합) (38개)
 - [⚡ 자동화 & 워크플로우](#자동화--워크플로우) (70개)
 - [🔍 검색 엔진](#검색-엔진) (58개)
-- [📁 파일 & 문서 관리](#파일--문서-관리) (170개)
+- [📁 파일 & 문서 관리](#파일--문서-관리) (171개)
 - [🎨 디자인 & UI](#디자인--ui) (19개)
 - [💬 커뮤니케이션](#커뮤니케이션) (77개)
-- [📱 소셜미디어](#소셜미디어) (58개)
+- [📱 소셜미디어](#소셜미디어) (57개)
 - [🎮 미디어 & 엔터테인먼트](#미디어--엔터테인먼트) (54개)
-- [💰 금융 & 커머스](#금융--커머스) (188개)
+- [💰 금융 & 커머스](#금융--커머스) (189개)
 - [🗺️ 지도 & 위치 & 여행](#지도--위치--여행) (36개)
 - [🔌 IoT & 하드웨어](#iot--하드웨어) (25개)
 - [🏥 헬스 & 의료](#헬스--의료) (32개)
@@ -37,9 +37,9 @@
 - [🎓 교육 & 연구](#교육--연구) (85개)
 - [🌤️ 날씨 & 시간](#날씨--시간) (18개)
 - [🖥️ 시스템 & 데스크톱](#시스템--데스크톱) (36개)
-- [💻 코드 실행 & 개발](#코드-실행--개발) (47개)
-- [📚 리소스 & 도구](#리소스--도구) (53개)
-- [🔗 SaaS & 플랫폼 통합](#saas--플랫폼-통합) (694개)
+- [💻 코드 실행 & 개발](#코드-실행--개발) (48개)
+- [📚 리소스 & 도구](#리소스--도구) (54개)
+- [🔗 SaaS & 플랫폼 통합](#saas--플랫폼-통합) (687개)
 
 ---
 
@@ -147,6 +147,7 @@
 | [**jaspertvdm/mcp-server-ollama-bridge**](https://github.com/jaspertvdm/mcp-server-ollama-bridge) | 로컬 Ollama LLM 서버 브릿지. MCP를 통해 Llama, Mistral, Qwen 등 로컬 모델 실행 |
 | [**jaspertvdm/mcp-server-openai-bridge**](https://github.com/jaspertvdm/mcp-server-openai-bridge) | OpenAI API 브릿지. MCP를 통해 GPT-4, GPT-4o 등 OpenAI 모델 접근 |
 | [**joinly**](https://github.com/joinly-ai/joinly) | 브라우저 기반 미팅 플랫폼(Zoom, Teams, Google Meet)과 상호작용하는 MCP 서버. 실시간 트랜스크립트, 텍스트 발화, 메시지 전송 지원 |
+| [**K-Dense-AI/claude-skills-mcp**](https://github.com/K-Dense-AI/claude-skills-mcp) | 모든 모델과 클라이언트가 [Claude Agent Skills](https://www.anthropic.com/news/skills)를 네이티브처럼 사용할 수 있게 해주는 지능형 검색 기능. |
 | [**kiarash-portfolio-mcp**](https://kiarash-adl.pages.dev/.well-known/mcp.llmfeed.json) | Ed25519 서명 발견이 포함된 WebMCP 지원 포트폴리오. AI 에이전트가 프로젝트, 스킬 조회 및 터미널 명령 실행 가능 |
 | [**Kiln**](https://github.com/Kiln-AI/Kiln) | 프로덕션 수준의 AI 시스템 구축을 위한 무료 오픈소스 플랫폼. RAG 파이프라인, AI 에이전트, MCP 도구 호출, 평가, 합성 데이터 생성, 파인튜닝을 통합 지원 |
 | [**KirokuForms**](https://www.kirokuforms.com/ai/mcp) | AI 기반 폼 플랫폼으로 전문 폼 빌더와 HITL(Human-in-the-Loop) 기능을 결합. 커스텀 폼 생성, 제출 수집, 사람의 감독 통합 |
@@ -191,6 +192,7 @@
 | [**RAD Security**](https://github.com/rad-security/mcp-server) | Kubernetes 및 클라우드 환경에 대한 AI 기반 보안 인사이트를 제공하는 RAD Security 플랫폼과 상호작용 |
 | [**Retio-ai/pagemap**](https://github.com/Retio-ai/Retio-pagemap) | ~100K 토큰 HTML을 2-5K 토큰 구조화 맵으로 압축. AI 에이전트가 97% 적은 토큰으로 웹 페이지를 읽고 상호작용 |
 | [**rsdouglas/janee**](https://github.com/rsdouglas/janee) | 런타임에 자체 도구를 생성하고 개선하는 자기 진화 MCP 서버. LLM 기반 도구 생성으로 AI 에이전트가 자체 기능을 동적으로 확장 |
+| [**sim-xia/skill-cortex-server**](https://github.com/Sim-xia/skill-cortex-server) | 모든 IDE/CLI에서 Claude Code Skills 기능에 접근할 수 있게 하는 MCP 서버입니다. |
 | [**ssatama/rescuedogs-mcp-server**](https://github.com/ssatama/rescuedogs-mcp-server) | 유럽 및 영국 단체의 구조견을 AI 기반 성격 매칭과 상세 프로필로 검색 및 발견 |
 | [**stape-io/stape-mcp-server**](https://github.com/stape-io/stape-mcp-server) | Stape 플랫폼용 MCP 서버. Claude 또는 Cursor 같은 AI 기반 IDE에서 Stape API와 상호작용 |
 | [**Strata**](https://www.klavis.ai/) | 수천 개의 도구를 점진적으로 안내하는 MCP 서버. 컨텍스트 과부하를 제거하고 정확한 도구 선택을 보장 |
@@ -209,6 +211,7 @@
 | [**WaveSpeed**](https://github.com/WaveSpeedAI/mcp-server) | AI 에이전트에 이미지 및 비디오 생성 기능을 제공하는 WaveSpeed MCP 서버 |
 | [**WordPress MCP**](https://github.com/Automattic/wordpress-mcp) | WordPress 사이트를 간단한 MCP 서버로 변환하여 LLM 및 AI 에이전트에 기능 노출 |
 | [**Wren Engine**](https://github.com/Canner/wren-engine) | MCP 클라이언트 및 AI 에이전트를 위한 시맨틱 엔진 |
+| [**x51xxx/codex-mcp-tool**](https://github.com/x51xxx/codex-mcp-tool) | IDE 또는 AI 어시스턴트를 Codex CLI에 연결하여 다중 모델(gpt-5-codex, o3, codex-1) 지원 코드 분석 및 편집을 제공하는 MCP 서버. |
 | [**yuvalsuede/agent-media**](https://github.com/yuvalsuede/agent-media) | 7개 모델(Kling, Veo, Sora, Seedance, Flux, Grok Imagine)에 통합 접근하는 AI 비디오/이미지 생성 CLI 및 MCP 서버 |
 
 ---
@@ -579,6 +582,7 @@
 | [**Playwright**](https://github.com/executeautomation/mcp-playwright) | Playwright를 사용한 브라우저 자동화 및 웹 스크래핑 MCP 서버 |
 | [**Playwright Wizard**](https://github.com/oguzc/playwright-wizard-mcp) | 모범 사례를 적용한 Playwright E2E 테스트 생성 단계별 마법사 |
 | [**pragmar/mcp-server-webcrawl**](https://github.com/pragmar/mcp-server-webcrawl) | 웹 크롤러 데이터에 대한 고급 검색 및 검색. WARC, wget, Katana, SiteOne, InterroBot 크롤러 지원 |
+| [**pskill9/website-downloader**](https://github.com/pskill9/website-downloader) | wget을 사용하여 전체 웹사이트를 다운로드하는 MCP 서버입니다. 웹사이트 구조를 보존하고 링크를 로컬에서 작동하도록 변환합니다. |
 | [**Puppeteer**](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) | 웹 스크래핑 및 상호작용을 위한 브라우저 자동화 |
 | [**Puppeteer vision**](https://github.com/djannot/puppeteer-vision-mcp) | Puppeteer로 웹 페이지를 탐색하여 고품질 Markdown을 반환. AI 비전 기능으로 쿠키, CAPTCHA 등 인터랙티브 요소를 자동 처리 |
 | [**Pure.md**](https://github.com/puremd/puremd-mcp) | pure.md로 웹 콘텐츠를 Markdown 형식으로 안정적으로 접근 (봇 감지 우회, 프록시 순환, 헤드리스 JS 렌더링 내장) |
@@ -1218,6 +1222,7 @@
 | [**brianxiadong/ones-wiki-mcp-server**](https://github.com/brianxiadong/ones-wiki-mcp-server) | ONES Wiki 콘텐츠를 검색하고 AI 친화적인 텍스트 형식으로 변환하는 Spring AI MCP 기반 서비스. |
 | [**bug-breeder/quip-mcp**](https://github.com/bug-breeder/quip-mcp) | AI 어시스턴트에게 포괄적인 Quip 문서 접근 및 관리를 제공하는 Model Context Protocol (MCP) 서버. 문서 라이프사이클 관리, 스마트 검색, 댓글 관리, Quip.com 및 엔터프라이즈 인스턴스 모두를 위한 안전한 토큰 기반 인증을 지원합니다. |
 | [**caol64/wenyan-mcp**](https://github.com/caol64/wenyan-mcp) | AI가 자동으로 Markdown 문서를 포맷하고 WeChat 공중호(GZH)에 게시할 수 있게 하는 Wenyan MCP 서버. |
+| [**claude-faf-mcp**](https://github.com/Wolfe-Jam/claude-faf-mcp) | .faf 형식용 MCP 서버. 프로젝트 컨텍스트 관리 기능을 갖춘 컨텍스트 스코어링 엔진. |
 | [**CLDGeminiPDF Analyzer**](https://github.com/tfll37/CLDGeminiPDF-Analyzer) | 대용량 PDF 파일을 API를 통해 Google LLM에 공유하여 추가 분석 및 Claude Desktop으로의 응답 검색을 가능하게 하는 MCP 서버 도구. |
 | [**ClickUp**](https://github.com/TaazKareem/clickup-mcp-server) | 작업 생성, 업데이트, 대량 작업 및 Markdown 설명을 지원하는 ClickUp 작업 관리용 MCP 서버. |
 | [**Clix MCP Server**](https://github.com/clix-so/clix-mcp-server) | AI 에이전트가 실시간으로 신뢰할 수 있는 Clix 문서와 SDK 코드 예시를 제공하여 원활한 통합을 지원하는 Clix MCP 서버. |
@@ -1494,7 +1499,6 @@
 | [**Bright-L01/networkx-mcp-server**](https://github.com/Bright-L01/networkx-mcp-server) | 최초의 NetworkX MCP 통합 서버. AI 대화에서 직접 그래프 분석 및 시각화 지원. 중심성 알고리즘, 커뮤니티 탐지, PageRank 등 13개 연산 지원. |
 | [**checkra1neth/xbird**](https://github.com/checkra1neth/xbird-skill) | 34개 도구를 갖춘 Twitter/X MCP 서버. 트윗 게시, 검색, 타임라인 조회, 참여 관리, 미디어 업로드 지원. API 키 불필요, 브라우저 쿠키 사용. |
 | [**code-sandbox-mcp**](https://github.com/Automata-Labs-team/code-sandbox-mcp) | Docker 컨테이너 내에서 안전한 코드 샌드박스 환경을 생성하여 코드를 실행하는 MCP 서버. |
-| [**codex-data/codex-mcp**](https://github.com/Codex-Data/codex-mcp) | Codex API 연동으로 60개 이상 네트워크의 실시간 블록체인 및 시장 데이터를 제공하는 MCP 서버. |
 | [**davidlin2k/pox-mcp-server**](https://github.com/davidlin2k/pox-mcp-server) | POX SDN 컨트롤러용 MCP 서버로 네트워크 제어 및 관리 기능을 제공. |
 | [**dorukardahan/twitterapi-docs-mcp**](https://github.com/dorukardahan/twitterapi-docs-mcp) | TwitterAPI.io 문서를 오프라인으로 접근하는 MCP 서버. 52개 API 엔드포인트, 가이드, 가격 정보, 인증 문서 포함. |
 | [**Facebook Ads**](https://github.com/gomarble-ai/facebook-ads-mcp-server) | Facebook Ads API와 연동하여 광고 데이터 접근 및 관리 기능을 제공하는 MCP 서버. |
@@ -1521,6 +1525,7 @@
 | [**OKX-MCP-Server**](https://github.com/memetus/okx-mcp-playground) | OKX API를 통해 블록체인 데이터 및 시장 가격 데이터를 제공하는 MCP 서버. 자산 가격, 거래 데이터, 계정 히스토리 조회 지원. |
 | [**PostIdentity**](https://github.com/PostIdentity/mcp-server) | AI 어시스턴트에서 소셜 미디어 게시물을 생성하는 MCP 서버. ID 관리, 게시물 작성, 추천 추적, 마켓플레이스 템플릿 탐색 지원. |
 | [**profullstack/mcp-server**](https://github.com/profullstack/mcp-server) | SEO 최적화, 문서 변환, 도메인 조회, 이메일 검증, QR 생성, 날씨, 소셜 미디어 게시, 보안 스캔 등 20개 이상 도구를 통합한 MCP 서버. |
+| [**pskill9/hn-server**](https://github.com/pskill9/hn-server) | Hacker News의 HTML 콘텐츠를 파싱하여 다양한 유형의 스토리(top, new, ask, show, jobs)를 구조화된 데이터로 제공합니다. |
 | [**Regenerating-World/pix-mcp**](https://github.com/Regenerating-World/pix-mcp) | 브라질 즉시결제(Pix)용 QR 코드 및 복사-붙여넣기 문자열을 다중 프로바이더(Efi, Cielo 등) 폴백으로 생성하는 MCP 서버. |
 | [**scrape-badger/scrapebadger-mcp**](https://github.com/scrape-badger/scrapebadger-mcp) | ScrapeBadger API를 통해 Twitter/X 사용자 프로필, 트윗, 팔로워, 트렌드, 리스트, 커뮤니티 데이터를 접근하는 MCP 서버. |
 | [**shensi8312/blogburst-mcp-server**](https://github.com/shensi8312/blogburst-mcp-server) | BlogBurst로 AI 콘텐츠 생성, 재가공, 9개 이상 플랫폼(Twitter, LinkedIn, Reddit, Bluesky 등) 멀티 플랫폼 게시를 지원하는 MCP 서버. |
@@ -1531,7 +1536,6 @@
 | [**urlbox/urlbox-mcp-server**](https://github.com/urlbox/urlbox-mcp-server/) | Urlbox API를 통해 스크린샷, PDF, 동영상 생성, AI 기반 스크린샷 분석, 웹 콘텐츠(Markdown, 메타데이터, HTML) 추출을 지원하는 MCP 서버. |
 | [**Virtual location (Google Street View,etc.)**](https://github.com/mfukushim/map-traveler-mcp) | Google Map, Street View, PixAI, Stability.ai, ComfyUI API, Bluesky를 통합하여 LLM에서 가상 위치 시뮬레이션을 제공하는 MCP 서버. |
 | [**X (Twitter)**](https://github.com/mbelinky/x-mcp-server) | OAuth 2.0, v2 API 미디어 업로드, v1.1 폴백, 종합 Rate Limiting을 지원하는 Twitter/X MCP 서버. 텍스트/미디어 트윗 게시, 검색, 삭제 지원. |
-| [**x51xxx/codex-mcp-tool**](https://github.com/x51xxx/codex-mcp-tool) | IDE 또는 AI 어시스턴트를 Codex CLI에 연결하여 다중 모델(gpt-5-codex, o3, codex-1) 지원 코드 분석 및 편집을 제공하는 MCP 서버. |
 | [**xspadex/bilibili-mcp**](https://github.com/xspadex/bilibili-mcp.git) | FastMCP 기반으로 Bilibili 인기 동영상을 가져와 표준 MCP 인터페이스로 제공하는 도구. |
 | [**YouTube**](https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube) | YouTube 동영상 정보를 추출하는 MCP 서버. 프록시 지원. |
 | [**YouTube**](https://github.com/ZubeidHendricks/youtube-mcp-server) | YouTube API 종합 연동으로 동영상 관리, Shorts 생성, 분석을 지원하는 MCP 서버. |
@@ -1650,6 +1654,7 @@
 | [**carsol/monarch-mcp-server**](https://github.com/carsol/monarch-mcp-server) | Monarch Money 금융 데이터에 읽기 전용 접근을 제공하는 MCP 서버. AI 어시스턴트가 거래, 예산, 계좌, 캐시플로우 분석 가능. MFA 지원. |
 | [**Cashfree**](https://github.com/cashfree/cashfree-mcp) | Cashfree Payments 공식 MCP 서버. |
 | [**Chargebee**](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol) | AI 에이전트를 Chargebee 플랫폼에 연결하는 MCP 서버. |
+| [**codex-data/codex-mcp**](https://github.com/Codex-Data/codex-mcp) | Codex API 연동으로 60개 이상 네트워크의 실시간 블록체인 및 시장 데이터를 제공하는 MCP 서버. |
 | [**coin_api_mcp**](https://github.com/longmans/coin_api_mcp) | CoinMarketCap 암호화폐 데이터에 접근하는 MCP 서버. |
 | [**CoinCap**](https://github.com/QuantGeekDev/coincap-mcp) | 인증 없이 CoinCap 공개 API를 통해 실시간 암호화폐 시장 데이터를 제공하는 MCP 서버. |
 | [**Coinex**](https://github.com/coinexcom/coinex_mcp_server) | CoinEx 암호화폐 거래소 공식 API MCP 서버. 시장 데이터, K-line 데이터, 호가창, 잔고 조회, 주문 관리 지원. |
@@ -2152,6 +2157,7 @@
 | [**Salaah MCP**](https://github.com/yusufk/salaah-mcp) | 이슬람 예배 시간 및 기타 유용한 계산을 제공하는 FastAPI 및 MCP 서비스입니다. |
 | [**sapientpants/sonarqube-mcp-server**](https://github.com/sapientpants/sonarqube-mcp-server) | SonarQube와 통합되어 AI 어시스턴트가 코드 품질 메트릭, 이슈, 품질 게이트 상태에 접근할 수 있게 하는 MCP 서버입니다. |
 | [**saurabhsharma2u/search-console-mcp**](https://github.com/saurabhsharma2u/search-console-mcp) | Google Search Console 및 Bing Webmasters와 상호작용하기 위한 MCP 서버입니다. |
+| [**SDGLBL/mcp-claude-code**](https://github.com/SDGLBL/mcp-claude-code) | MCP를 활용한 Claude Code 기능 구현으로, AI 코드 이해, 수정, 프로젝트 분석을 종합 도구로 지원합니다. |
 | [**Sequa.AI**](https://github.com/sequa-ai/sequa-mcp) | Copilot과 Cursor를 위한 컨텍스트 연결 작업을 중단하세요. Sequa MCP를 사용하면 AI 도구가 모든 코드베이스와 문서를 기본적으로 알고 있습니다. |
 | [**SimplyLiz/CodeMCP**](https://github.com/SimplyLiz/CodeMCP) | 의미론적 코드 검색, 영향도 분석, 콜 그래프, 소유권 탐지, 아키텍처 이해를 위한 80개 이상의 도구를 갖춘 코드 인텔리전스 MCP 서버입니다. SCIP 인덱싱을 통해 Go, TypeScript, Python, Rust, Java를 지원합니다. |
 | [**Ticketmaster**](https://github.com/delorenj/mcp-server-ticketmaster) | Ticketmaster Discovery API를 통해 이벤트, 장소, 공연을 검색합니다. |
@@ -2174,6 +2180,7 @@
 | [**Awesome MCP Servers by appcypher**](https://github.com/appcypher/awesome-mcp-servers) | **Stephen Akinyemi**가 큐레이션한 MCP 서버 목록입니다. |
 | [**Awesome Remote MCP Servers by JAW9C**](https://github.com/jaw9c/awesome-remote-mcp-servers) | 인증 지원 정보를 포함한 **원격** MCP 서버의 큐레이션 목록입니다. **JAW9C** 제작. |
 | [**centralmind/gateway**](https://github.com/centralmind/gateway) | AI를 사용하여 데이터베이스 스키마와 데이터를 기반으로 MCP 도구를 생성하고 REST, MCP 또는 MCP-SSE 서버로 호스팅하는 CLI입니다. |
+| [**ClaudeCodeNavi/claudecodenavi-mcp**](https://github.com/saikiyusuke/claudecodenavi-mcp) | Claude Code 지식 플랫폼 & 마켓플레이스 MCP 서버. ClaudeCodeNavi 커뮤니티에서 스니펫, 프롬프트, Q&A 솔루션, 오류 수정, MCP 서버 설정을 검색하고 공유합니다. |
 | [**create-mcp-ts**](https://github.com/stephencme/create-mcp-ts) | TypeScript로 새로운 MCP 서버를 생성합니다 — 배터리 포함, 사용자 정의 템플릿을 지원합니다! |
 | [**Discord Server**](https://glama.ai/mcp/discord) | MCP 전용 커뮤니티 Discord 서버입니다. **Frank Fiegel** 운영. |
 | [**Discord Server (ModelContextProtocol)**](https://discord.gg/jHEGxQu2a5) | Model Context Protocol 전용 활발한 Discord 커뮤니티에서 개발자와 연결하고, 인사이트를 공유하고, 프로젝트를 협업합니다. **Alex Andru** 운영. |
@@ -2300,8 +2307,6 @@
 | [**CheMiguel23/MemoryMesh**](https://github.com/CheMiguel23/MemoryMesh) | AI 롤플레이 및 스토리 생성에 특화된 향상된 그래프 기반 메모리. |
 | [**chrishayuk/mcp-cli**](https://github.com/chrishayuk/mcp-cli) | MCP 서버 테스트를 위한 또 다른 CLI 도구. |
 | [**ChuckNorris**](https://github.com/pollinations/chucknorris-mcp) | 동적 스키마 적응을 갖춘 LLM 향상 프롬프트 및 탈옥을 위한 특화된 MCP 게이트웨이. enum 기반 접근 방식을 사용하여 다양한 LLM을 위한 프롬프트를 제공합니다. |
-| [**claude-faf-mcp**](https://github.com/Wolfe-Jam/claude-faf-mcp) | .faf 형식용 MCP 서버. 프로젝트 컨텍스트 관리 기능을 갖춘 컨텍스트 스코어링 엔진. |
-| [**ClaudeCodeNavi/claudecodenavi-mcp**](https://github.com/saikiyusuke/claudecodenavi-mcp) | Claude Code 지식 플랫폼 & 마켓플레이스 MCP 서버. ClaudeCodeNavi 커뮤니티에서 스니펫, 프롬프트, Q&A 솔루션, 오류 수정, MCP 서버 설정을 검색하고 공유합니다. |
 | [**Cleanup Crew**](https://cleanupcrew.ai/install) | AI 코딩 도구를 사용하는 비기술 창업자를 위한 실시간 인간 지원 서비스. AI가 막힐 때 IDE에서 직접 즉각적인 인간 도움을 요청합니다. |
 | [**Clojars**](https://github.com/Bigsy/Clojars-MCP-Server) | Clojure 라이브러리의 최신 의존성 정보를 가져옵니다. |
 | [**clojure-mcp**](https://github.com/bhauman/clojure-mcp) | Clojure 개발 도구. REPL을 통해 실행 중인 프로그램에 직접 접근합니다. |
@@ -2500,7 +2505,6 @@
 | [**JSON**](https://github.com/kehvinbehvin/json-mcp-filter) | quicktype-core를 사용하여 관련 컨텍스트 JSON 데이터 검색에 최적화된 TypeScript 타입 생성 및 형태 기반 데이터 추출, 중첩 객체 지원을 갖춘 JSON 스키마 생성 및 필터링 서버. |
 | [**JSON MCP**](https://github.com/VadimNastoyashchy/json-mcp) | LLM이 JSON 파일과 효율적으로 상호작용할 수 있게 해주는 MCP 서버. JSON MCP를 통해 분할, 병합 등을 수행할 수 있습니다. |
 | [**JSON2Video MCP**](https://github.com/omergocmen/json2video-mcp-server) | json2video API를 사용하여 프로그래밍 방식으로 비디오를 생성하는 Model Context Protocol (MCP) 서버 구현체. 강력한 비디오 생성 및 상태 확인 도구를 제공합니다. |
-| [**K-Dense-AI/claude-skills-mcp**](https://github.com/K-Dense-AI/claude-skills-mcp) | 모든 모델과 클라이언트가 [Claude Agent Skills](https://www.anthropic.com/news/skills)를 네이티브처럼 사용할 수 있게 해주는 지능형 검색 기능. |
 | [**kafka-mcp**](https://github.com/shivamxtech/kafka-mcp) | 메시지, 토픽, 오프셋, 파티션에 대한 도구를 통해 Kafka 환경과 상호작용하는 Kafka 클러스터용 MCP 서버. Consumer 및 Producer를 지원하며 MCP 클라이언트와 원활하게 통합됩니다. |
 | [**kaliaboi/mcp-zotero**](https://github.com/kaliaboi/mcp-zotero) | LLM이 Zotero Cloud의 컬렉션 및 소스와 작업할 수 있게 해주는 커넥터. |
 | [**Kaltura**](https://github.com/kaltura/mcp-events) | Kaltura Event Platform을 관리합니다. Kaltura 가상 이벤트의 생성, 관리, 상호작용을 위한 도구와 리소스를 제공합니다. |
@@ -2713,8 +2717,6 @@
 | [**Probe.dev**](https://mcp.probe.dev) | FFprobe, MediaInfo, 종합 리포팅 기능을 갖춘 전문 미디어 분석 및 검증 MCP 서버입니다. |
 | [**Program Integrity Alliance (PIA)**](https://github.com/Program-Integrity-Alliance/pia-mcp-local) | 미국 정부 오픈 데이터셋에 AI 친화적으로 접근하는 로컬 및 호스팅 MCP 서버입니다. |
 | [**promptexecution/just-mcp**](https://github.com/promptexecution/just-mcp) | LLM이 CLI 또는 스크립트 명령을 파라미터와 함께 안전하게 실행할 수 있게 하는 Justfile 통합입니다. |
-| [**pskill9/hn-server**](https://github.com/pskill9/hn-server) | Hacker News의 HTML 콘텐츠를 파싱하여 다양한 유형의 스토리(top, new, ask, show, jobs)를 구조화된 데이터로 제공합니다. |
-| [**pskill9/website-downloader**](https://github.com/pskill9/website-downloader) | wget을 사용하여 전체 웹사이트를 다운로드하는 MCP 서버입니다. 웹사이트 구조를 보존하고 링크를 로컬에서 작동하도록 변환합니다. |
 | [**PubChem**](https://github.com/sssjiang/pubchem_mcp_server) | PubChem API에서 약물 정보를 추출합니다. |
 | [**Public APIs MCP**](https://github.com/zazencodes/public-apis-mcp) | MCP를 사용하여 무료 API를 검색합니다. |
 | [**public-ui/kolibri**](https://github.com/public-ui/kolibri) | 200개 이상의 접근성 보장 웹 컴포넌트 샘플, 스펙, 문서, 시나리오를 스트리밍으로 제공하는 KoliBri MCP 서버입니다. |
@@ -2773,7 +2775,6 @@
 | [**sawa-zen/vrchat-mcp**](https://github.com/sawa-zen/vrchat-mcp) | VRChat API와 상호작용하는 MCP 서버입니다. 친구, 월드, 아바타 등의 정보를 조회합니다. |
 | [**Scrapezy**](https://github.com/scrapezy/mcp) | Scrapezy로 웹사이트를 데이터셋으로 변환합니다. |
 | [**ScriptFlow**](https://github.com/yanmxa/scriptflow-mcp) | 복잡하고 반복적인 AI 상호작용을 영구적이고 실행 가능한 스크립트로 변환합니다. 종합적인 스크립트 관리와 다국어(Bash, Python 등)를 지원합니다. |
-| [**SDGLBL/mcp-claude-code**](https://github.com/SDGLBL/mcp-claude-code) | MCP를 활용한 Claude Code 기능 구현으로, AI 코드 이해, 수정, 프로젝트 분석을 종합 도구로 지원합니다. |
 | [**Search1API**](https://github.com/fatwang2/search1api-mcp) | 검색, 크롤링, 사이트맵을 위한 단일 API입니다. |
 | [**searchcraft-inc/searchcraft-mcp-server**](https://github.com/searchcraft-inc/searchcraft-mcp-server) | Searchcraft 클러스터 관리, 검색 인덱스 생성, 데이터 파일 기반 동적 인덱스 생성, 데이터 가져오기를 위한 공식 MCP 서버입니다. |
 | [**SecretiveShell/MCP-wolfram-alpha**](https://github.com/SecretiveShell/MCP-wolfram-alpha) | Wolfram Alpha API를 쿼리하기 위한 MCP 서버입니다. |
@@ -2783,7 +2784,6 @@
 | [**shuji-bonji/xcomet-mcp-server**](https://github.com/shuji-bonji/xcomet-mcp-server) | xCOMET 모델을 사용한 번역 품질 평가입니다. 품질 점수(0-1), 심각도별 오류 탐지, 25배 속도 향상 배치 처리를 제공합니다. |
 | [**SidneyBissoli/ibge-br-mcp**](https://github.com/SidneyBissoli/ibge-br-mcp) | 인구통계, 지리, 경제, 통계를 위한 23개 도구를 갖춘 브라질 통계청(IBGE) 데이터 서버입니다. |
 | [**sim-xia/blind-auditor**](https://github.com/Sim-xia/Blind-Auditor) | 프롬프트 인젝션, 독립적 자체 감사, 컨텍스트 격리를 통해 AI가 생성 메시지를 자체 수정하도록 하는 무비용 MCP 서버입니다. |
-| [**sim-xia/skill-cortex-server**](https://github.com/Sim-xia/skill-cortex-server) | 모든 IDE/CLI에서 Claude Code Skills 기능에 접근할 수 있게 하는 MCP 서버입니다. |
 | [**Simple Loki MCP**](https://github.com/ghrud92/simple-loki-mcp) | logcli를 사용하여 Loki 로그를 쿼리하는 간단한 MCP 서버입니다. |
 | [**Simplifier**](https://github.com/simplifier-ag/simplifier-mcp) | Simplifier 로우코드 플랫폼에서 커넥터, 비즈니스 객체 등을 관리합니다. |
 | [**skedgo/tripgo-mcp-server**](https://github.com/skedgo/tripgo-mcp-server) | TripGo API의 멀티모달 여행 계획, 교통 위치, 대중교통 출발 정보(실시간 포함)를 제공합니다. |
